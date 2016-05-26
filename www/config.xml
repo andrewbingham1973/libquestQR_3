@@ -6,7 +6,7 @@ versionCode="10"
 version = "2.9.0">
 
 <!-- versionCode is optional and Android only -->
-
+<platform name="android"/>
 <name>libquest QR Scanner Test</name>
 
 <description>
